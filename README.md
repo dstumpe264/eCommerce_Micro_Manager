@@ -2,6 +2,7 @@
 
 ## Description
     Command-line application to manage e-commerce retail products. Uses Express.js, MySQL, Sequelize and More.
+    Video Link @ 
 
 ## Installation Instructions
     Download folder and run with node.
