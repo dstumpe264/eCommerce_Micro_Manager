@@ -48,7 +48,7 @@ router.put('/:id', async (req, res) => {
   try {
     const updatedTag = await Tag.update(
       {
-        tag_name: req.body.Tag_name
+        tag_name: req.body.tag_name
       },
       {
         where: {
